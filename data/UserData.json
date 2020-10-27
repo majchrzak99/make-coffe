@@ -1,0 +1,11 @@
+{
+    "Username": "Testowy użytkownik",
+    "IsAuthenticated": true,
+    "Permissions": [
+        {
+            "Id": 1,
+            "Name": "Test uprawnień",
+            "PermissionScope": 1
+        }
+    ]
+}
