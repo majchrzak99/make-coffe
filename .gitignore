@@ -1,0 +1,7 @@
+*/.idea
+*/.vs
+*/sln*.user
+*/appsettings.json
+*/obj
+*/bin
+node_modules
