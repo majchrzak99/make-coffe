@@ -1,5 +1,6 @@
 # makeCoffe
 SPA app using nuxt.js and .net 5 api
+
 Still in beginning of development.
 
 ## Build Setup
